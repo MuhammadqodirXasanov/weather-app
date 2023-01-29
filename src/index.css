@@ -1,0 +1,11 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-family: Arial;
+	transition: all 0.2s;
+	box-sizing: border-box;
+}
+.page-error {
+	text-align: center;
+	color: red;
+}
